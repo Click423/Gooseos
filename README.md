@@ -1,2 +1,3 @@
 # Gooseos
-Custom os
+Making custom os
+collab email gooseosdev@gmail.com
