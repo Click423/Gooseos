@@ -1,0 +1,2 @@
+# Gooseos
+Custom os
